@@ -1,0 +1,28 @@
+Project Objectives
+Problem: Retailers face overstock or stockouts due to poor demand forecasting.
+Outcome: Develop an AI-driven model to optimize inventory levels based on sales predictions.
+
+Project Tasks
+Week 1-2: Data Collection & Cleaning
+- Gather past sales, supplier, and seasonal data.
+- Handle missing values & format datasets.
+
+Week 3-4: Exploratory Data Analysis (EDA)
+- Analyze sales trends & seasonal effects.
+- Identify inventory inefficiencies.
+
+Week 5-6: Forecasting Model Development
+- Train ML models (ARIMA, LSTMs, Prophet).
+- Compare forecasting accuracy.
+
+Week 7-8: Optimization Algorithms
+- Implement demand-supply balancing strategies.
+- Integrate reinforcement learning for adaptive inventory control.
+
+Week 9-10: Dashboard Development
+- Visualize stock levels & demand trends.
+- Develop alert systems for low stock levels.
+
+Week 11-12: Final Report & Business Strategy
+- Document AI-based inventory strategies.
+- Provide insights for warehouse & procurement teams.
