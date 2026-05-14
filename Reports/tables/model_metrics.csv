@@ -1,0 +1,6 @@
+model,mae,rmse,mape
+linear_regression_lags,229.492,290.328,17.86
+prophet,204.624,311.009,14.123
+seasonal_naive,231.963,405.221,13.945
+arima,318.317,496.427,24.793
+moving_average_7,351.614,525.614,27.159

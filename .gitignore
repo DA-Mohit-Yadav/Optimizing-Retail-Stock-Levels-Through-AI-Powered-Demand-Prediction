@@ -1,0 +1,19 @@
+# Local IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Dataset files should not be pushed to GitHub
+Dataset/
+data/
+df_3_categories.csv
+
+# Python runtime artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Word temporary lock files
+~$*.docx
+

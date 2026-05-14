@@ -1,0 +1,7 @@
+model,available,note
+seasonal_naive,True,Implemented locally as benchmark model.
+moving_average_7,True,Implemented locally as benchmark model.
+linear_regression_lags,True,Implemented locally using lag and rolling features.
+arima,True,"ARIMA(7,1,1) fitted separately for each family."
+prophet,True,Prophet fitted separately for each family with weekly and yearly seasonality.
+lstm,False,tensorflow/keras is not installed in the current environment.

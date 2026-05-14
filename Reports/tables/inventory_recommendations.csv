@@ -1,0 +1,4 @@
+family,avg_daily_forecast,forecast_std_dev,safety_stock,reorder_point,recommended_order_qty
+BEVERAGES,2057.83,415.55,1814.1,16218.88,30623.65
+DAIRY,817.9,296.1,1292.61,7017.94,12743.27
+GROCERY I,2748.15,558.77,2439.3,21676.35,40913.41
